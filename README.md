@@ -1,6 +1,7 @@
 # Sales-Performance-Dashboard
 
 Project Objective:
+
 Analyze sales performance and identify trends.
 
 Tools Used:
