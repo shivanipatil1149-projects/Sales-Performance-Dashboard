@@ -1,2 +1,19 @@
 # Sales-Performance-Dashboard
-Interactive Excel dashboard built to analyze sales performance.
+
+Project Objective:
+Analyze sales performance and identify trends.
+
+Tools Used:
+- Microsoft Excel
+
+Tasks Performed:
+- Pivot Tables
+- Charts
+- Slicers
+- Conditional Formatting
+- KPI Tracking
+
+Business Insights:
+- Identified top-performing products.
+- Analyzed sales trends.
+- Evaluated revenue performance.
